@@ -9,7 +9,7 @@ class App extends Component {
         super(props)
         this.state = {
             count: 9,
-            gameStatus: true,
+            gameStatus: false,
         }
     }
 

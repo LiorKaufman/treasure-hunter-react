@@ -18,3 +18,16 @@ body {
     height: 100px;
     border: 1px solid black;
 }
+.board-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+}
+img {
+    width: 50%;
+    height: 50%;
+}
